@@ -1,0 +1,13 @@
+//A simple java program to print my name
+    public class Shawon 
+{
+
+    public static void main(String[] args) 
+{
+        // Prints "Hello shawon" to the terminal window.
+       
+ System.out.println("Hello, shawon");
+    }
+
+}
+
